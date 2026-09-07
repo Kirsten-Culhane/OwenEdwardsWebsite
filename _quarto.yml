@@ -1,0 +1,21 @@
+project:
+  type: website
+  
+website:
+  title: "Owen Edwards"
+  navbar:
+      left:
+        - href: index.qmd
+          text: About
+        - href: publications.qmd
+          text: Publications
+        - href: maps.qmd
+          text: Maps
+        - href: consulting.qmd
+          text: Consulting        
+  
+format:
+  html:
+    theme: [Sandstone, custom.scss]
+    css: styles.css
+    toc: true

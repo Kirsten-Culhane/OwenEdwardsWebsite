@@ -1,0 +1,75 @@
+---
+title: "Owen Edwards"
+format: html
+about:
+  template: solana
+  image: images/Owen.png
+  image-shape: round
+  links:
+    - icon: envelope-at
+      text: Email
+      href: mailto:owen.edwards@canterbury.ac.nz
+    - text: "ORCID"
+      href: https://orcid.org/0000-0003-2209-0652
+    - icon: github
+      text: GitHub
+      href: https://github.com/OwenAmarasi
+    
+  
+comments: false
+toc: false
+execute: 
+  warning: false
+---
+
+```{r}
+#| echo: false
+#| warning: false
+library(tidyverse)
+library(here)
+library(rorcid)
+library(glue)
+```
+
+Hi, I'm Owen. I'm a documentary and historical linguist, specializing in languages of Eastern Indonesia, especially Timor and southern Maluku.
+I am the managing editor of Oceanic Linguistics and on the Advisory Board of the Language & Culture Unit (UBB) in Kupang. 
+
+I also do linguistic consultancy, especially in the areas of data processing, orthography development, and linguistic cartography.
+You can read more about my services [here](consulting.qmd) and find maps [here](maps.qmd). 
+
+ 
+##  Employment
+10/2025 - | Visiting researcher, University of Canterbury (New Zealand)
+
+08/2024 – 10/2025 | Postdoctoral Fellow, University of Canterbury (New Zealand)
+
+07/2023 – 04/2024 | Postdoctoral Fellow, University of Cologne (Germany)
+
+03/2023 – 06/2023 | Specialist of Linguistics, University of Tartu, Tartu (Estonia)
+
+07/2021 – 07/2022 | Lecturer, Leiden University, Leiden (Netherlands)
+
+05/2021 – 08/2022 | Linguist, ARDS Aboriginal Corporation, Darwin (Australia)
+
+03/2018 – 12/2019 | Researcher, Leiden University, Leiden (Netherlands)
+
+07/2017 – 12/2017| Endeavour Australia Research Fellow, Language & Culture Unit
+(UBB), Kupang (Indonesia)
+
+03/2017 – 06/2017 | Guest Researcher, Leiden University , Leiden (Netherlands)
+
+
+
+## Education 
+
+2017      | PhD | The Australian National University
+
+Thesis: *Metathesis and Unmetathesis: Parallelism and Complementarity in Amarasi,
+Timor* [\[PDF\]](hdl.handle.net/1885/114481)
+
+2012      | Bachelor of Arts (Honours) | Australian National University
+
+Sub-thesis: *Grammatical Functions in Tolaki* [\[PDF\]](hdl.handle.net/1885/9388)
+
+
+

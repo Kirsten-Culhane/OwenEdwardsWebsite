@@ -1,0 +1,4 @@
+/* hide the global bibliography block at the end of the document */
+div#refs {
+  display: none;
+}

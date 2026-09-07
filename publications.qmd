@@ -1,0 +1,111 @@
+---
+title: "Publications"
+format: html
+csl: chicago-mod.csl
+bibliography: publications.bib
+link-citations: false
+---
+
+ 
+## Books
+Grimes, Charles E., and **Owen Edwards**. 2026. *The Austronesian languages of eastern Indonesia and Timor-Leste: unravelling their prehistory and classification.* Number 1 in Languages of the New Guinea Region. Berlin: Language Science Press. [\[full text\]](https://langsci-press.org/catalog/book/526)
+
+**Edwards, Owen**. 2021. *Rote-Meto comparative dictionary*. Canberra: ANU press. [\[full text\]](http://doi.org/10.22459/RMCD.2021) [\[lexical database\]](http://hdl.handle.net/1885/251618)
+
+**Edwards, Owen**. 2020. *Metathesis and unmetathesis in Amarasi*. Berlin: Language
+Science Press. [\[full text\]](http://langsci-press.org/catalog/book/228)
+
+## Articles 
+Bracks, Christoph, and **Owen Edwards**. 2026. The languages of Atauro island.
+*Oceanic Linguistics* 65(1):94–128. [\[full paper\]](https://ir.canterbury.ac.nz/items/796d7525-c583-43e2-90d4-e3192cf07a0d)
+
+**Edwards, Owen**. 2025. Teun, Nila, Serua – a collection of language snapshots. Language Documentation and Description 25:1–12. [\[full paper\]](https://www.lddjournal.org/article/
+id/2615/)
+
+Lovestrand, Joseph, Misriani Balle, and **Owen Edwards**. 2022. Notes on Kodi phonology. *Journal of the Southeast Asian Linguistics Society* 15:1–26. [\[full paper\]](http://hdl.handle.net/10524/52501)
+
+
+Klamer, Marian, **Owen Edwards**, Hanna Fricke, Zoi Gialitaki, Francesca Moro, Axel Palmér, George Saad, Yunus Sulistyono, Eline Visser, and Jiang Wu. 2021. Practicalities of language data collection and management in and around Indonesia. *Wacana* 22:467–521 [\[full paper\]](http://dx.doi.org/10.17510/wacana.v22i2.930)
+
+**Edwards, Owen**. 2019. Reintroducing Welaun. *Oceanic Linguistics* 58:31–58.[\[full paper\]](http://hdl.handle.net/1887/79038)
+
+**Edwards, Owen**. 2018a. The morphology and phonology of metathesis in Amarasi.
+*Morphology* 28:25–69.[\[full paper\]](http://rdcu.be/zcgd)
+
+**Edwards, Owen.** 2018b. Parallel histories in Rote-Meto. *Oceanic Linguistics* 57:359–409.[\[full paper\]](http://hdl.handle.net/1887/67592) 
+
+**Edwards, Owen.** 2018c. Preliminary report on Funai Helong. *NUSA: Linguistic studies of languages in and around Indonesia* 65:1–27.[\[full paper\]] (https://tufs.repo.nii.ac.jp/record/1417/files/Edwards.pdf)
+
+**Edwards, Owen.** 2018d. Top-down historical phonology of Rote-Meto. *Journal of the Southeast Asian Linguistics Society* 11:63–90 [\[full paper\]](http://hdl.handle.net/10524/52421)
+
+**Edwards, Owen.** 2017. Epenthetic and contrastive glottal stops in Amarasi. *Oceanic Linguistics* 56:415–434 [\[full paper\]](http://hdl.handle.net/1887/55974)
+
+**Edwards, Owen.** 2016a. Amarasi. Journal of the International Phonetic Association 46:113–125.[\[full paper\]](https://doi.org/10.1017/S0025100315000377
+)
+
+**Edwards, Owen.** 2016b. Parallel sound correspondences in Uab Meto. *Oceanic Linguistics* 55:52–86 [\[full paper\]](http://hdl.handle.net/1885/108661)
+
+Edwards, Owen. 2015. The position of Enggano within Austronesian. *Oceanic Linguistics* 54:55–109. [\[full paper\]](http://hdl.handle.net/1885/114506)
+
+## Book Chapters
+Grimes, Charles E., and **Owen Edwards**. in press. The Austronesian languages of
+Wallacea. In The languages and linguistics of Island Southeast Asia and Oceania, ed. Bill Palmer and Ellen Smith-Dennis, The World of Linguistics [WOL]. Berlin: De Gruyter
+
+Culhane, Kirsten, & **Edwards, Owen**. 2026. The phonetics and phonological behaviour of vowel length in Meto. In *The Documentarist Turn – From observable linguistic behaviour to typological generalizations* (pp.  433–467). John Benjamins. [\[full paper\]](https://doi.org/10.1075/slcs.240.17cul)  [\[supplementary materials\]](https://osf.io/jahwm/)
+
+Culhane, Kirsten, and **Owen Edwards**. 2025. Consonant epenthesis in Meto: typologically rare but diachronically explicable. In *Rarities in phonetics and phonology: evolutionary, structural, typological and social dimensions*, ed. Natalia Kuznetsova, Cormac Anderson, and Shelece Easterday, 165–217. Berlin: Language Science Press. [\[full text\]](https://langsci-press.org/catalog/book/415)
+
+**Edwards, Owen**. 2024a. Accessibility and prominence in the Amarasi noun phrase. In *Prominence in Austronesian*, ed. Bethwyn Evans, Åshild Næss, and Jozina Vander Klok, 229–266. Berlin: De Gruyter [\[URL\]](https://doi.org/10.1515/9783110730753-008)
+
+**Edwards, Owen.** 2024b. Onomatopoeia in Kotos Amarasi. In *Onomatopoeia in the
+world’s languages*, ed. Lívia Körtvélyessy and Pavol Štekauer, 795–803. Berlin: De Gruyter. [\[URL\]](https://doi.org/10.1515/9783111053226-066)
+
+**Edwards, Owen**. 2023b. Phonological innovation and lexical retention in the history of Rote-Meto. In *Traces of contact in the lexicon: Austronesian and Papuan studies*, ed. Marian Klamer and Francesca Moro, 101–139. Leiden: Brill.[\[full text\]](https://doi.org/10.1163/9789004529458_005)
+
+**Edwards, Owen**. 2014. How to index a subject in Tolaki. In *Argument realisations and related constructions in Austronesian languages*, ed. I Wayan Arka and N. L. K. Mas Indrawati, volume 2 of Papers from 12-ICAL, 141–159. Canberra: Asia-Pacific Linguistics. [\[full text\]](http://hdl.handle.net/1885/12059)
+
+Donohue, Mark, and **Owen Edwards**. 2014. Number in Tolaki. *In Number and quantity in East Nusantara*, ed. Marian Klamer and František Kratochvíl, volume 1 of Papers from 12-ICAL, 27–42. Canberra: Asia-Pacific Linguistics. [\[full text\]]( http://hdl.handle.net/1885/11917)
+
+## Conference proceedings
+**Edwards, Owen.** 2012. Non-subject participants in Tolaki. In *Proceedings of the LFG12 Conference*, ed. Miriam Butt and Tracy Holloway King, 198–239. Stanford: CSLI Publications. [\[full text\]](http://web.stanford.edu/group/cslipublications/cslipublications/LFG/
+17/abstracts/lfg12abs-edwards.html)
+
+ 
+## Archived Primary Linguistic Data
+
+Edwards, Owen. 2023a. Emplawas and languages of the Babar Islands. Digital collection managed by Endangered Languages Archive. [\[URL\]](http://hdl.handle.net/2196/28f40694-81ac-4d06-b515-617dd6469394)
+
+Edwards, Owen (collector). 2018. Kemak and Welaun Survey (OE8). Digital collec-
+tion managed by PARADISEC. [\[URL\]](http://catalog.paradisec.org.au/repository/OE8)
+
+Edwards, Owen (collector). 2017. Eastern Rote recordings (OE9). Digital collection managed by PARADISEC.[\[URL\]](http://catalog.paradisec.org.au/repository/OE9)
+
+Edwards, Owen (collector). 2017. Timaus recordings (OE3). Digital collection man-
+aged by PARADISEC. [\[URL\]](http://catalog.paradisec.org.au/collections/OE3)
+
+Edwards, Owen (collector). 2017. Ro'is Amarasi recordings (OE2). Digital collection managed by PARADISEC.[\[URL\]](http://catalog.paradisec.org.au/collections/OE2)
+
+Edwards, Owen (collector). 2017. Kusa-Manea recordings (OE6). Digital collection
+managed by PARADISEC. [\[URL\]](http://catalog.paradisec.org.au/repository/OE6)
+
+Edwards, Owen (collector). 2017. Funai Helong recordings (OE7). Digital collection managed by PARADISEC. [\[URL\]](http://catalog.paradisec.org.au/repository/OE7)
+
+Edwards, Owen (collector). 2016. Edwards thesis recordings (OE1). Digital collection managed by PARADISEC.[\[URL\]](http://catalog.paradisec.org.au/repository/OE1)
+
+
+## Vernacular Language Materials
+
+**Edwards, Owen**, and Heronimus Bani. 2019. *Kamus maruna' Uab Meto' Amarasi;
+Kamus bergambar bahasa Amarasi; Amarasi picture dictionary*. UBB Language &
+Culture Series, A-10. Kupang: Language & Culture Unit (UBB). [\[PDF\]](https://vici.
+marianklamer.org/uploads/1/2/4/7/124768088/edwards_bani_2019_kamus_maruna_uab_amarasi_with_cover_.pdf)
+
+**Edwards, Owen**, and Melianus Obhetan. 2017. *Reta' na'ko Tunbaun* [Stories from
+Tunbaun]. Kupang: Language & Culture Unit (UBB). Trial edition
+
+**Edwards, Owen**, and Hamrilah. 2013. *Tolaki picture dictionary, Pobatuangi Ndolaki ronga gambarano, Kamus bergambar bahasa Tolaki*. Kendari: Mombetolaki Publishing.
+
+
+
+
+

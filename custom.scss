@@ -1,0 +1,21 @@
+/*-- scss:defaults --*/
+
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libertinus+Serif+Display&display=swap");
+
+$font-family-heading: "DM Serif Display", "Times New Roman", serif;
+$font-family-base: "Libertinus Serif Display", "Times New Roman", serif;
+/*-- scss:rules --*/
+
+h1, h2, h3, h4, h5, h6, .menu-text, .navbar-title {
+  font-family: $font-family-heading;
+}
+
+.menu-text {
+  font-family: $font-family-heading;
+}
+
+body {
+  font-family: $font-family-base;
+}
+
